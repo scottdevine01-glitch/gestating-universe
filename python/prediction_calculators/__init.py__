@@ -1,0 +1,16 @@
+"""
+Prediction calculators for the Gestating Universe Theory.
+Contains implementations of all 8 falsifiable predictions.
+"""
+
+__version__ = "1.0.0"
+__all__ = [
+    'neutrino_mass',
+    'cmb_periodicity',
+    'dm_core_scaling',
+    'lorentz_invariance',
+    'rh_neutrino_scale',
+    'hl_lhc_predictions',
+    'higgs_21cm_correlation',
+    'gw_echoes'
+]
