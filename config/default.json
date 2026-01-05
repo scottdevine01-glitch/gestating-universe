@@ -1,0 +1,10 @@
+{
+  "n_elements": 500,
+  "density": 0.15,
+  "n_steps": 10,
+  "scaling_factor": 1.30e19,
+  "hill_coefficient": 2.7,
+  "higgs_vev": 246.0,
+  "m_r": 1e14,
+  "output_dir": "results/"
+}
