@@ -1,0 +1,22 @@
+biological_system,parameter,biological_value,biological_units,cosmic_scaled_value,cosmic_units,scaling_factor,notes
+overall,gestation_period,266,days,28.1,Gyr,1.30e19,Human pregnancy duration
+overall,fetal_mass_at_term,3.5,kg,4.6e52,kg,1.30e19,Full-term fetus weight
+metabolic,basal_metabolic_rate,4.8,W/kg,3.7e-36,W/kg,α^(-1/4),Kleiber's law scaling
+metabolic,oxygen_consumption,7.2,mL/min/kg,CMB_entropy,dimensionless,N/A,Entropy correspondence
+circulatory,heart_rate,140,bpm,4.7e-18,Hz,1.30e19,Fetal heart rate
+circulatory,blood_volume,300,mL,3.9e78,cm^3,(1.30e19)^3,Volume scales as α^3
+endocrine,pituitary_mass,0.12,g,1.6e15,g,1.30e19,Master endocrine gland
+endocrine,hill_coefficient_hCG,2.7,dimensionless,2.7,dimensionless,1,Cooperativity parameter
+structural,placental_thickness,2.5,cm,1.05,kpc,1.30e19,Maternal-fetal interface
+structural,amniotic_fluid_volume,800,mL,1.0e79,cm^3,(1.30e19)^3,Protective medium
+neurological,neuron_count_30wk,1e9,count,1e28,count,1.30e19,Brain development
+developmental,organogenesis_completion,8,weeks,8.5,Gyr,1.30e19,Major structures formed
+developmental,lung_maturation,34,weeks,36,Gyr,1.30e19,Late development
+metabolic,glucose_uptake,6,mg/min/kg,4.6e-36,kg/s/α,N/A,Energy consumption
+endocrine,thyroid_mass,2,g,2.6e16,g,1.30e19,Metabolic regulation
+structural,umbilical_cord_length,50,cm,21,kpc,1.30e19,Connection length
+circulatory,blood_pressure_systolic,40,mmHg,3.1e-15,Pa,α^(-2),Pressure scaling
+developmental,neural_tube_closure,4,weeks,4.2,Gyr,1.30e19,Early development
+metabolic,heat_production,2.5,W,1.9e-19,W,α^(-1/4),Total fetal heat
+structural,skull_circumference,34,cm,14.3,kpc,1.30e19,Protective structure
+endocrine,adrenal_mass,4,g,5.2e16,g,1.30e19,Stress response
